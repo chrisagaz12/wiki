@@ -71,3 +71,6 @@
     border-radius: 3px;
     background-color: #079F4A;
 }
+.box:hover {
+    background-color: none;
+}
